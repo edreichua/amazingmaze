@@ -1,0 +1,789 @@
+edrei, 54125, Sun Aug 30 16:44:51 2015
+
+Avatar 0 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 12 and y: 8
+Avatar 2 is now at x: 18 and y: 18
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 13 and y: 8
+Avatar 2 is now at x: 18 and y: 18
+
+Avatar 0 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 13 and y: 8
+Avatar 2 is now at x: 18 and y: 18
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 13 and y: 8
+Avatar 2 is now at x: 18 and y: 17
+
+Avatar 0 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 13 and y: 8
+Avatar 2 is now at x: 18 and y: 17
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 8
+Avatar 2 is now at x: 18 and y: 17
+
+Avatar 0 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 8
+Avatar 2 is now at x: 18 and y: 17
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 8
+Avatar 2 is now at x: 18 and y: 16
+
+Avatar 1 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 8
+Avatar 2 is now at x: 18 and y: 16
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 8
+Avatar 2 is now at x: 18 and y: 16
+
+Avatar 1 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 7
+Avatar 2 is now at x: 18 and y: 16
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 7
+Avatar 2 is now at x: 18 and y: 16
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 7
+Avatar 2 is now at x: 17 and y: 16
+
+Avatar 0 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 6
+Avatar 2 is now at x: 17 and y: 16
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 6
+Avatar 2 is now at x: 18 and y: 15
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 5
+Avatar 2 is now at x: 18 and y: 15
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 5
+Avatar 2 is now at x: 18 and y: 14
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 4
+Avatar 2 is now at x: 18 and y: 14
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 4
+Avatar 2 is now at x: 18 and y: 14
+
+Avatar 1 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 5
+Avatar 2 is now at x: 18 and y: 14
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 5
+Avatar 2 is now at x: 17 and y: 14
+
+Avatar 1 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 6
+Avatar 2 is now at x: 17 and y: 14
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 6
+Avatar 2 is now at x: 17 and y: 13
+
+Avatar 1 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 7
+Avatar 2 is now at x: 17 and y: 13
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 7
+Avatar 2 is now at x: 17 and y: 13
+
+Avatar 1 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 7
+Avatar 2 is now at x: 17 and y: 13
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 7
+Avatar 2 is now at x: 17 and y: 12
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 7
+Avatar 2 is now at x: 17 and y: 12
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 7
+Avatar 2 is now at x: 17 and y: 12
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 7
+Avatar 2 is now at x: 16 and y: 12
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 6
+Avatar 2 is now at x: 16 and y: 12
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 6
+Avatar 2 is now at x: 16 and y: 12
+
+Avatar 2 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 7
+Avatar 2 is now at x: 16 and y: 13
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 7
+Avatar 2 is now at x: 16 and y: 13
+
+Avatar 1 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 7
+Avatar 2 is now at x: 16 and y: 13
+
+Avatar 2 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 7
+Avatar 2 is now at x: 16 and y: 14
+
+Avatar 1 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 7
+Avatar 2 is now at x: 16 and y: 14
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 7
+Avatar 2 is now at x: 15 and y: 14
+
+Avatar 1 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 19 and y: 7
+Avatar 2 is now at x: 15 and y: 14
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 19 and y: 7
+Avatar 2 is now at x: 15 and y: 14
+
+Avatar 1 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 19 and y: 8
+Avatar 2 is now at x: 15 and y: 14
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 19 and y: 8
+Avatar 2 is now at x: 15 and y: 14
+
+Avatar 1 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 19 and y: 8
+Avatar 2 is now at x: 15 and y: 14
+
+Avatar 2 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 19 and y: 8
+Avatar 2 is now at x: 15 and y: 15
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 19 and y: 9
+Avatar 2 is now at x: 15 and y: 15
+
+Avatar 2 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 9
+Avatar 2 is now at x: 15 and y: 15
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 8
+Avatar 2 is now at x: 16 and y: 15
+
+Avatar 2 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 8
+Avatar 2 is now at x: 16 and y: 16
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 8
+Avatar 2 is now at x: 15 and y: 16
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 9
+Avatar 2 is now at x: 15 and y: 16
+
+Avatar 2 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 9
+Avatar 2 is now at x: 15 and y: 17
+
+Avatar 1 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 8
+Avatar 2 is now at x: 15 and y: 17
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 8
+Avatar 2 is now at x: 14 and y: 17
+
+Avatar 1 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 8
+Avatar 2 is now at x: 14 and y: 17
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 8
+Avatar 2 is now at x: 14 and y: 17
+
+Avatar 1 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 9
+Avatar 2 is now at x: 14 and y: 17
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 9
+Avatar 2 is now at x: 14 and y: 17
+
+Avatar 1 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 9
+Avatar 2 is now at x: 14 and y: 17
+
+Avatar 2 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 9
+Avatar 2 is now at x: 14 and y: 17
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 9
+Avatar 2 is now at x: 15 and y: 17
+
+Avatar 2 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 10
+Avatar 2 is now at x: 15 and y: 18
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 10
+Avatar 2 is now at x: 15 and y: 18
+
+Avatar 2 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 10
+Avatar 2 is now at x: 15 and y: 19
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 10
+Avatar 2 is now at x: 14 and y: 19
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 10
+Avatar 2 is now at x: 14 and y: 18
+
+Avatar 1 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 10
+Avatar 2 is now at x: 14 and y: 18
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 10
+Avatar 2 is now at x: 13 and y: 18
+
+Avatar 1 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 11
+Avatar 2 is now at x: 13 and y: 18
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 11
+Avatar 2 is now at x: 13 and y: 17
+
+Avatar 1 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 11
+Avatar 2 is now at x: 13 and y: 17
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 11
+Avatar 2 is now at x: 13 and y: 17
+
+Avatar 1 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 11
+Avatar 2 is now at x: 13 and y: 17
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 11
+Avatar 2 is now at x: 12 and y: 17
+
+Avatar 1 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 11
+Avatar 2 is now at x: 12 and y: 17
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 11
+Avatar 2 is now at x: 12 and y: 17
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 12
+Avatar 2 is now at x: 11 and y: 17
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 13
+Avatar 2 is now at x: 11 and y: 16
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 19 and y: 13
+Avatar 2 is now at x: 12 and y: 16
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 19 and y: 14
+Avatar 2 is now at x: 13 and y: 16
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 19 and y: 15
+Avatar 2 is now at x: 14 and y: 16
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 19 and y: 16
+Avatar 2 is now at x: 14 and y: 15
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 19 and y: 17
+Avatar 2 is now at x: 14 and y: 14
+
+Avatar 1 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 19 and y: 18
+Avatar 2 is now at x: 14 and y: 14
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 19 and y: 18
+Avatar 2 is now at x: 14 and y: 14
+
+Avatar 1 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 19 and y: 19
+Avatar 2 is now at x: 14 and y: 14
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 19 and y: 19
+Avatar 2 is now at x: 13 and y: 14
+
+Avatar 1 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 19
+Avatar 2 is now at x: 13 and y: 14
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 19
+Avatar 2 is now at x: 13 and y: 13
+
+Avatar 1 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 19
+Avatar 2 is now at x: 13 and y: 13
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 19
+Avatar 2 is now at x: 13 and y: 13
+
+Avatar 1 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 19
+Avatar 2 is now at x: 13 and y: 13
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 19
+Avatar 2 is now at x: 13 and y: 12
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 18
+Avatar 2 is now at x: 13 and y: 12
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 18
+Avatar 2 is now at x: 13 and y: 12
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 17
+Avatar 2 is now at x: 12 and y: 12
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 16
+Avatar 2 is now at x: 12 and y: 12
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 16
+Avatar 2 is now at x: 12 and y: 12
+
+Avatar 2 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 15
+Avatar 2 is now at x: 12 and y: 13
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 15
+Avatar 2 is now at x: 11 and y: 13
+
+Avatar 1 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 14
+Avatar 2 is now at x: 11 and y: 13
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 18 and y: 14
+Avatar 2 is now at x: 11 and y: 13
+
+Avatar 1 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 14
+Avatar 2 is now at x: 11 and y: 13
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 14
+Avatar 2 is now at x: 10 and y: 13
+
+Avatar 1 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 13
+Avatar 2 is now at x: 10 and y: 13
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 13
+Avatar 2 is now at x: 10 and y: 12
+
+Avatar 1 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 12
+Avatar 2 is now at x: 10 and y: 12
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 17 and y: 12
+Avatar 2 is now at x: 10 and y: 12
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 12
+Avatar 2 is now at x: 10 and y: 12
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 13
+Avatar 2 is now at x: 9 and y: 12
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 14
+Avatar 2 is now at x: 9 and y: 11
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 14
+Avatar 2 is now at x: 9 and y: 11
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 15
+Avatar 2 is now at x: 9 and y: 11
+
+Avatar 2 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 15
+Avatar 2 is now at x: 8 and y: 11
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 16 and y: 16
+Avatar 2 is now at x: 8 and y: 10
+
+Avatar 1 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 16
+Avatar 2 is now at x: 8 and y: 10
+
+Avatar 2 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 16
+Avatar 2 is now at x: 8 and y: 10
+
+Avatar 1 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 17
+Avatar 2 is now at x: 8 and y: 10
+
+Avatar 2 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 17
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 1 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 17
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 17
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 1 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 17
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 17
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 1 tries to move by direction 2
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 18
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 18
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 15 and y: 19
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 19
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 18
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 13 and y: 18
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 13 and y: 17
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 12 and y: 17
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 11 and y: 17
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 1 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 11 and y: 16
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 11 and y: 16
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 1 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 12 and y: 16
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 12 and y: 16
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 1 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 13 and y: 16
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 13 and y: 16
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 1 tries to move by direction 3
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 16
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 16
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 15
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 14 and y: 14
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 13 and y: 14
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 13 and y: 13
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 13 and y: 12
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 12 and y: 12
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 12 and y: 13
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 1 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 11 and y: 13
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 11 and y: 13
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 1 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 10 and y: 13
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 10 and y: 13
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 1 tries to move by direction 1
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 10 and y: 12
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 10 and y: 12
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 1 tries to move by direction 0
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 9 and y: 12
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 9 and y: 12
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 9 and y: 11
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 8 and y: 11
+Avatar 2 is now at x: 8 and y: 9
+
+Avatar 2 tries to move by direction 8
+Avatar 0 is now at x: 8 and y: 9
+Avatar 1 is now at x: 8 and y: 10
+Avatar 2 is now at x: 8 and y: 9
+
+Maze solved for 3 avatars and 3 difficulty in 334 moves.
+Success code: 1224715694
